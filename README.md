@@ -1,7 +1,9 @@
 # Transaction Analysis Website
 
 ## Overview
-This repository contains the code for a Transaction Analysis Website developed using the MERN stack (MongoDB, Express.js, React, Node.js). The application provides functionalities to analyze and visualize transaction data, offering insights through various charts and reports.
+# Transaction Analysis Hub
+
+Transaction Analysis Hub is a web application developed using the MERN stack (MongoDB, Express.js, React, Node.js) designed for transaction analysis and visualization. The platform provides users with comprehensive tools to track, analyze, and visualize their financial transactions. With intuitive dashboards, dynamic charts, and real-time data processing, Transaction Analysis Hub ensures users can make informed financial decisions with ease.
 
 ## Screenshots
 ![transaction-dashboard](https://github.com/Garry1106/Transaction-Dashboard/assets/101012709/f15d85ca-6689-4b6f-ad62-c2ffa88e3147)
