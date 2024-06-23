@@ -5,8 +5,9 @@ Transaction Analysis Hub is a web application developed using the MERN stack (Mo
 ## Screenshots
 ![transaction-dashboard](https://github.com/Garry1106/Transaction-Dashboard/assets/101012709/f15d85ca-6689-4b6f-ad62-c2ffa88e3147)
 ![statistics](https://github.com/Garry1106/Transaction-Dashboard/assets/101012709/7762d0fb-8592-4fae-be04-8357a3a6524b)
-![pie-chart](https://github.com/Garry1106/Transaction-Dashboard/assets/101012709/08144048-981f-412c-87ae-620c24ba9d35)
 ![bar-chart](https://github.com/Garry1106/Transaction-Dashboard/assets/101012709/08145547-2dd4-4cff-8a1a-e693b7e5c5e8)
+![pie-chart](https://github.com/Garry1106/Transaction-Dashboard/assets/101012709/08144048-981f-412c-87ae-620c24ba9d35)
+
 
 ## Features
 - **User Authentication**: Secure user registration and login.
