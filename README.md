@@ -1,6 +1,3 @@
-# Transaction Analysis Website
-
-## Overview
 # Transaction Analysis Hub
 
 Transaction Analysis Hub is a web application developed using the MERN stack (MongoDB, Express.js, React, Node.js) designed for transaction analysis and visualization. The platform provides users with comprehensive tools to track, analyze, and visualize their financial transactions. With intuitive dashboards, dynamic charts, and real-time data processing, Transaction Analysis Hub ensures users can make informed financial decisions with ease.
