@@ -34,8 +34,8 @@ Make sure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/transaction-analysis-website.git
-   cd transaction-analysis-website
+   git clone (https://github.com/Garry1106/Transaction-Dashboard.git)
+   cd Transaction-Dashboard
    ```
 
 2. **Install dependencies for the backend**
