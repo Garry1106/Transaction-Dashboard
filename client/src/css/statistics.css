@@ -1,0 +1,40 @@
+.statistics.table {
+  border-radius: 8px;
+  padding: 16px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  background-color: #e3e2e2;
+  max-width: 800px;
+  margin: 80px auto;
+  
+}
+
+.table-title {
+  font-size: 1.5em;
+  margin-bottom: 16px;
+  text-align: center;
+}
+
+.table-content {
+  margin: auto;
+  width: 100%;
+  background-color: #e9e8e8;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+}
+
+td {
+  padding: 8px 12px;
+  border: 1px solid #b6b3b3;
+  font-weight: bold;
+}
+
+
+
+.data {
+  text-align: center;
+}
