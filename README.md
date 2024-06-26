@@ -46,7 +46,7 @@ Make sure you have the following installed:
 
 3. **Install dependencies for the frontend**
    ```bash
-   cd ../frontend
+   cd ../client
    npm install
    ```
 
